@@ -1,4 +1,4 @@
-io.asm
+;io.asm
 
 section .data                           ;Data segment
    userMsg db 'Please enter a number: ' ;Ask the user to enter a number
